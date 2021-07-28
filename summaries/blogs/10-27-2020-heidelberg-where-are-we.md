@@ -35,7 +35,7 @@ Answer 1: the suitcase
 
 - [**SWAG**](https://www.aclweb.org/anthology/D18-1009.pdf): A MCQA dataset from video captions with the aim of predicting new dataset (*using a new method to construct a non-biased dataset - Adversarial Filtering**) [TBD]
 
-- [*CommonsenseQA**](https://www.aclweb.org/anthology/N19-1421.pdf): Answer questions based on a specific source concept and choose from five possible answers.
+- [**CommonsenseQA**](https://www.aclweb.org/anthology/N19-1421.pdf): Answer questions based on a specific source concept and choose from five possible answers.
 
 - [**DROP**](https://www.aclweb.org/anthology/N19-1246.pdf): Dicrete Reasoning Over Paragraphs - Reading Comprehension where a system has to reason using subtraction, comparision, coreference resolutoin, count, sort, addition, arithmetics, etc.
 
