@@ -29,7 +29,7 @@ Answer 1: the suitcase
 
 ### Other Benchmarks
 - [**ConceptNet**](https://www.media.mit.edu/publications/bttj/Paper23Pages211-226.pdf): A wide range of commonsense concepts and their relations.
-![ConceptNet Image](./images/conceptnet-768x525.jpg)
+![ConceptNet Image](../../images/conceptnet-768x525.jpg)
 
 - [**Story Cloze Test/ROC Stories**](https://www.aclweb.org/anthology/N16-1098.pdf): System has to choose between a right and a wrong ending to four-sentence stories.
 
