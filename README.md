@@ -4,4 +4,4 @@ Resources and summaries for multi-modal social intelligence and commonsense reas
 
 
 ## Blogs
-- [ ] (Multimodal) Commonsense Reasoning: Where are we and where could we go? [[Blog](https://nlpblog.cl.uni-heidelberg.de/index.php/2020/10/27/multimodal-commonsense-reasoning/)] [[Summary]()]
+- [ ] (Multimodal) Commonsense Reasoning: Where are we and where could we go? [[Blog](https://nlpblog.cl.uni-heidelberg.de/index.php/2020/10/27/multimodal-commonsense-reasoning/)] [[Summary](./summaries/blogs/10-27-2020-heidelberg-where-are-we.md)]
